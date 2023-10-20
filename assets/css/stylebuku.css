@@ -7,17 +7,17 @@ body{
     font-size:15px;
    }
 #wrapper{
-    background: #00eaff;
+    background: #0dff00;
     width: 1100px;
     margin: 20px auto;
 }
 #wrapper header{
-    background: #05ea27;
+    background: #95ff00;
     padding: 20px;
 }
 #wrapper header hgroup{
     float: left;
-    color: #009dff;
+    color: #ffffff;
 }
 #wrapper header nav{float: right;
     margin-top: 50px;
@@ -39,11 +39,11 @@ body{
     clear: both;
 }
 footer{
-    background: #000000;
+    background: #95ff00;
     padding: 20px;
 }
 footer a{
-    color: #000000;
+    color: #0c0c0c;
     text-decoration: none;
 }
 section{
